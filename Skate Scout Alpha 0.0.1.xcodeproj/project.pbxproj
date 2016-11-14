@@ -120,7 +120,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0810;
-				ORGANIZATIONNAME = "drkrisky@hotmail.com";
+				ORGANIZATIONNAME = "Scout Technologies Inc";
 				TargetAttributes = {
 					AECF168B1B0E0C0200CC83B2 = {
 						CreatedOnToolsVersion = 6.3.2;
